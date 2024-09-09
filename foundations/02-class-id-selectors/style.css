@@ -1,4 +1,15 @@
-p{
+.odd{
     background-color:rgb(237, 113, 131);
-    font-family: "Verdana","DajaVu Sans", sans-serif;
+    font-family: Verdana,"DajaVu Sans", sans-serif;
+}
+#second{
+    color: blue;
+    font-size: 36px;
+}
+#forth{
+    background-color: lightgreen;
+    font-weight: bold;
+}
+.adjust-font-size{
+    font-size: 24px;
 }
